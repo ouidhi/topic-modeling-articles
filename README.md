@@ -120,7 +120,7 @@ LdaModel(
 
 ### 4. Topic Prevalence Over Time (Line Plot)
 **Purpose**: Tracks how topic prominence changes year by year
-![image not loading: view in the notebook](image.png)
+![image not loading: view in the notebook](plots/topic-trend.png)
 
 **Real-world event correlation**:
 
@@ -154,7 +154,7 @@ LdaModel(
 
 ### 5. Topic Prevalence Heatmap
 **Purpose**: Provides a dense, color-coded view of topic intensity across years
-![image not loading: view in the notebook](image-1.png)
+![image not loading: view in the notebook](plots/prevalence-heatmap.png)
 
 **Color Interpretation**:
 - **Darker colors** = Higher topic prevalence in that year
@@ -170,7 +170,7 @@ LdaModel(
 
 ### 6. Cumulative Topic Prevalence
 **Purpose**: Shows accumulated topic presence over time (stacked area representation)
-![image not loading: view in the notebook](image-2.png)
+![image not loading: view in the notebook](plots/cumulative-trend.png)
 
 **Interpretation**: 
 - Reveals long-term trends in coverage allocation
