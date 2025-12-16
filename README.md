@@ -125,30 +125,42 @@ LdaModel(
 **Real-world event correlation**:
 
 #### **Russia-Ukraine Conflict** (Topic 0)
-- **Trend**: Near-zero coverage 2011-2021, massive spike in 2022
-- **Real Event**: Russia's invasion of Ukraine (February 2022) triggered unprecedented Western media coverage
+- **Peaks**: 2014, 2022
+- **Real Event**: 2014 meant the first major event, where Russia annexed the Crimean Peninsula and the War in Donbas began, driving initial interest. The trend expands in 2022 with the large-scale invasion
 
 #### **Olympics & International Sports** (Topic 1)
 - **Peaks**: 2012 (London), 2016 (Rio), 2018 (PyeongChang Winter), 2021 (Tokyo, delayed from 2020)
 - **Real Events**: Olympic Games cycle every 2 years (alternating Summer/Winter)
 
+#### **Professional League Sports** (Topic 2)
+- **Trend**: Consistent, steady coverage
+- **Real Events**: Ongoing coverage of NBA, NFL, MLB, NHL regular seasons and playoffs
+
+#### **Motorsport & Racing** (Topic 3)
+- **Trend**: Consistent, steady coverage
+- **Real Events**: The significant increase from ~2017 to 2020 is largely driven by the explosion of Formula 1 popularity globally.
+
+#### **Politics** (Topic 4)
+- **Elevated Coverage**: 2016, 2020
+- **Real Events**: Trump vs Clinton 2016, Biden vs Trump 2020, 2021 Capitol Attack
+- **Baseline**: Steady political coverage maintained throughout all years
+
 #### **Soccer World Cup** (Topic 5)
 - **Peaks**: 2014 (Brazil), 2018 (Russia), 2022 (Qatar)
 - **Real Events**: FIFA World Cup quadrennial cycle, one of the world's most-watched sporting events
 
+#### **Tennis & Golf** (Topic 6)
+- **Trend**: High 2012-2015 then downward trend.
+- **Real Events**: The early years of this chart (2011-2015) were near the peak of the iconic "Big Three" era in men's tennis: Roger Federer, Rafael Nadal, and Novak Djokovic
+The decline also reflects a growing difficulty for individual, non-team sports to hold attention against other sports. 
+
+#### **Crime & Law** (Topic 7)
+- Almost non-existent
+
 #### **Global Crises & Health Events** (Topic 8)
-- **Major Spike**: 2020-2021
-- **Real Event**: COVID-19 pandemic dominated global news coverage
-- **Additional Context**: Includes natural disasters, epidemics, and humanitarian crises
-
-#### **Politics** (Topic 4)
-- **Elevated Coverage**: 2016, 2020
-- **Real Events**: US Presidential elections (Trump vs Clinton 2016, Biden vs Trump 2020)
-- **Baseline**: Steady political coverage maintained throughout all years
-
-#### **Professional League Sports** (Topic 2)
-- **Trend**: Consistent, steady coverage
-- **Real Events**: Ongoing coverage of NBA, NFL, MLB, NHL regular seasons and playoffs
+- **Major Spikes**: 2014-2016, 2020-2021
+- **Real Event**: 2014 Ebola Outbreak, 2020-2021 COVID-19 Pandemic.
+- **Additional Context**: Includes natural disasters, epidemics, and humanitarian crises.
 
 ---
 
