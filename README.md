@@ -219,6 +219,6 @@ jupyter notebook topic_modeling.ipynb
 
 ---
 
-### 📬 Contact
+## Contact ⋆˙⟡
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-parmar1/) | [Email](vidhi30th@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-parmar1/) | [Email](vidhi30th@gmail.com) | [Website](https://readymag.website/5667522/)
