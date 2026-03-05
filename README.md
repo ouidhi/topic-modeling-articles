@@ -173,10 +173,10 @@ The decline also reflects a growing difficulty for individual, non-team sports t
 - **Lighter colors** = Lower topic prevalence
 
 **Key Observations**:
-- **2022**: Darkest cell for Russia-Ukraine topic (0.11-0.13 probability)
-- **2020-2021**: Strong coloring for Global Crises topic (pandemic period)
-- **Olympic years**: Noticeable color intensity in Topic 1 rows
-- **World Cup years**: Distinct pattern every 4 years in Topic 5
+- **2014**: Darkest cell for Russia-Ukraine topic, Russia invaded part of Ukraine (0.09 probability).
+- **2020-2021**: Strong coloring for Global Crises topic (pandemic period).
+- **Olympic years**: Noticeable color intensity in Olympics & International Sports topic. 
+- **World Cup years**: Distinct pattern every 4 years in Professional League Sports. 
 
 ---
 
@@ -192,8 +192,6 @@ The decline also reflects a growing difficulty for individual, non-team sports t
 - Demonstrates editorial bandwidth reallocation during major events
 
 **Real-world insight**: During major crises (2020-2021 pandemic, 2022 Ukraine war), other topics received proportionally less coverage, showing how breaking news reshapes media priorities.
-
----
 
 ## Getting Started
 
@@ -216,8 +214,6 @@ jupyter notebook topic_modeling.ipynb
 ```
 
 4. **Dataset will automatically download** via KaggleHub.
-
----
 
 ## Contact ⋆˙⟡
 
